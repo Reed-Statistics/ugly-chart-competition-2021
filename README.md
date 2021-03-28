@@ -6,9 +6,8 @@
 # Ugly Chart Competition 2021
 
 This is the repository for Reed’s Inaugural Ugly Chart Competition. The
-competition will take place on March 31st from 4:45 - 6:00pm. (If you
-would like to participate, please email <mcconville@reed.edu> for the
-Zoom link.)
+competition will take place on March 31st from 4:45 - 6:00pm. You can
+sign up [here](https://forms.gle/XgRGY9TY5hVQ9oSQ8).
 
 Participants are encouraged to wear their ugliest sweater/shirt.
 
